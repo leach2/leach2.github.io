@@ -16,4 +16,4 @@ Hello friendly visitors, my name is Ryan Leach and I am a freshmen here at Kenyo
 
 Fun Fact: I appeared as an extra in the movie Happy Gilmore 2 starring Adam Sandler. 
 
-![Happy Gilmore 2] (https://leach2.github.io/assets/img/Happy_Gilmore_2_poster.jpg)
+![Happy Gilmore 2](https://leach2.github.io/assets/img/Happy_Gilmore_2_poster.jpg)
