@@ -10,10 +10,11 @@ mathjax: true
 author: Ryan Leach
 ---
 
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
 It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Front](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Front.HEIC)
+
+How about a yummy crepe?
+
+![Back](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Back.HEIC)
