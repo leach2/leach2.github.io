@@ -1,7 +1,12 @@
 ---
 layout: post
-title: Sewing Sampler Submission
+title: Sewing Sampler Submission 
 subtitle: including the following stitches: running, cross, back, blanket, satin, whip, chain, chevron
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
 author: Ryan Leach
 ---
 
