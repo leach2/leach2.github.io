@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sewing Sampler Submission 
-subtitle: including the following stitches: running, cross, back, blanket, satin, whip, chain, chevron
+subtitle: Due 9/14/2026
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
