@@ -27,7 +27,7 @@ The Front of the Sewing Sampler:
 ![Front](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Front.HEIC)
 
 The Back of the Sewing Sampler:
-![Back](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Back.HEIC)
+![Back](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Screenshot%202026-09-13%20at%202.40.26%20PM.jpg?raw=true)
 
 
 In retrospect, the tip I would give to myself is to be more focused and neat when sketching out plans in pencil prior to stitching. I think I didn't put enough emphasis on that this time and cleaner sketches would have contributed to more consistent stitches, subsequently aiding to a better finished look. 
