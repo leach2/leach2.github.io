@@ -24,7 +24,7 @@ This sampler includes the stitches of the following:
 
 
 The Front of the Sewing Sampler:
-![Front](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Front.HEIC)
+![Front](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Screenshot%202026-09-13%20at%202.40.44%20PM.jpg?raw=true)
 
 The Back of the Sewing Sampler:
 ![Back](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Screenshot%202026-09-13%20at%202.40.26%20PM.jpg?raw=true)
