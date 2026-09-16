@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sewing Sampler Submission 
-subtitle: Due 9/14/2026
+title: Blinky If (HW)
+subtitle: Due 9/16/2026
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -11,12 +11,5 @@ author: Ryan Leach
 ---
 
 
-This sampler includes the stitches of the following:
-- Running Stitch
-- Running Stitch w/ Small Spaces
-- Satin Stitch (single-sided)
-- Whip Stitch (along edge)
-- Backstitch
-- Blanket Stitch
-- Cross Stitch
-- Chain Stitch (my choosing)
+The Code in Action!!!
+![Red Light On](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Screenshot%202026-09-13%20at%202.40.44%20PM.jpg?raw=true)
