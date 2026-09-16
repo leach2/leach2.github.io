@@ -12,4 +12,4 @@ author: Ryan Leach
 
 
 The Code in Action!!!
-![Red Light On](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Screenshot%202026-09-13%20at%202.40.44%20PM.jpg?raw=true)
+![Red Light On](https://github.com/leach2/leach2.github.io/blob/master/assets/img/IMG_3510.jpg?raw=true)
