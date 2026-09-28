@@ -18,10 +18,10 @@ Aligator Clip Prototyping Stage:
 (n/a)
 
 Front of Plushy:
-![Front](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Screenshot%202026-09-13%20at%202.40.44%20PM.jpg?raw=true)
+![Front of Plushy](https://github.com/leach2/leach2.github.io/blob/master/assets/img/IMG_3590.jpg)
 
 Back of Plushy:
-![Front](https://github.com/leach2/leach2.github.io/blob/master/assets/img/Screenshot%202026-09-13%20at%202.40.44%20PM.jpg?raw=true)
+![Front](https://github.com/leach2/leach2.github.io/blob/master/assets/img/IMG_3591.jpg)
 
 Project Description:
 --insert description
