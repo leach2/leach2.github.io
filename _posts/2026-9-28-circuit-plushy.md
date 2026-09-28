@@ -11,16 +11,21 @@ author: Ryan Leach
 ---
 
 
-This sampler includes the stitches of the following:
-- Running Stitch
-- Running Stitch w/ Small Spaces
-- Satin Stitch (single-sided)
-- Whip Stitch (along edge)
-- Backstitch
-- Blanket Stitch
-- Cross Stitch
-- Chain Stitch (my choosing)
-- Chevron Stitch (my choosing)
+Paper Plushy Prototype:
+--insert link
 
+Aligator Clip Prototyping Stage:
+(n/a)
 
-The Front of the Sewing Sampler
+Front of Plushy:
+--insert link
+
+Back of Plushy:
+--insert link
+
+Project Description:
+--insert description
+
+Tip/Trick/Hint for Others:
+--insert description
+
