@@ -12,7 +12,8 @@ author: Ryan Leach
 
 
 Paper Plushy Prototype:
-![PaperPrototype](https://leach2.github.io/assets/img/IMG_3589.jpg)
+![PaperPrototype](https://leach2.github.io/assets/img/IMG_3589.jpg)[
+([https://leach2.github.io/assets/img/IMG_3510.jpg](url))
 
 
 REMOVE ![PaperPrototype](https://github.com/leach2/leach2.github.io/blob/master/assets/img/IMG_3589.jpg)
