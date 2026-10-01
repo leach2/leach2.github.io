@@ -13,7 +13,6 @@ author: Ryan Leach
 
 Paper Plushy Prototype:
 ![PaperPrototype](https://leach2.github.io/assets/img/IMG_3589.jpg)[
-([https://leach2.github.io/assets/img/IMG_3510.jpg](url))
 
 
 REMOVE ![PaperPrototype](https://github.com/leach2/leach2.github.io/blob/master/assets/img/IMG_3589.jpg)
@@ -23,12 +22,10 @@ Aligator Clip Prototyping Stage:
 
 Front of Plushy:
 ![FrontofPlushy](https://leach2.github.io/assets/img/IMG_3590.jpg)[
-([https://leach2.github.io/assets/img/IMG_3590.jpg](url))
 
 
 Back of Plushy:
 ![BackofPlushy](https://leach2.github.io/assets/img/IMG_3591.jpg)
-([https://leach2.github.io/assets/img/IMG_3591.jpg](url))
 
 Project Description:
 This project combined all skills we have been learning and working on to create a sewable plushy with switches, buttons, and illuminating LEDs. Using both the knowledge of sewing and physical construction as well as circuitry a plushy was created that uses a switch and a button its back to control the illumination of 3 LEDs on its front. In addition, this particular purple plushy is decorated with a fun face on the front and a decorative stitch on the back. 
