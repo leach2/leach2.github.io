@@ -27,7 +27,7 @@ Front of Plushy:
 
 
 Back of Plushy:
-![BackofPlushy](https://github.com/leach2/leach2.github.io/blob/master/assets/img/IMG_3591.jpg)
+![BackofPlushy](https://leach2.github.io/assets/img/IMG_3591.jpg)
 ([https://leach2.github.io/assets/img/IMG_3591.jpg](url))
 
 Project Description:
