@@ -12,7 +12,10 @@ author: Ryan Leach
 
 
 Paper Plushy Prototype:
-![PaperPrototype](https://github.com/leach2/leach2.github.io/blob/master/assets/img/IMG_3589.jpg)
+![PaperPrototype](https://leach2.github.io/assets/img/IMG_3589.jpg)
+
+
+REMOVE ![PaperPrototype](https://github.com/leach2/leach2.github.io/blob/master/assets/img/IMG_3589.jpg)
 
 Aligator Clip Prototyping Stage:
 (n/a)
