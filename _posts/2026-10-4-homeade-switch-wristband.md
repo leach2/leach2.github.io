@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Circuit Plushy 
-subtitle: Due 9/28/2026
+title: Homeade Switch Wristband 
+subtitle: Due 10/6/2026
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -10,9 +10,17 @@ mathjax: true
 author: Ryan Leach
 ---
 
+Project Description:
+xxx
 
-Paper Plushy Prototype:
-![PaperPrototype](https://leach2.github.io/assets/img/IMG_3589.jpg)[
+Front of Wristband:
+(insert photo)
 
+Back of Wristband:
+(insert photo)
 
-REMOVE ![PaperPrototype](http
+Homeade Switch Wristband Worksheet & Paper Prototype:
+(insert photo)
+
+Alligator Clip Prototyping Stage:
+(insert photo)
