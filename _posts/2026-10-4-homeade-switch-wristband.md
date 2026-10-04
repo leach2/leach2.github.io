@@ -14,10 +14,10 @@ Project Description:
 xxx
 
 Front of Wristband:
-(insert photo)
+![FrontofWristband](https://leach2.github.io/assets/img/IMG_3637.jpeg?raw=true)
 
 Back of Wristband:
-(insert photo)
+![BackofWritsband](https://leach2.github.io/assets/img/IMG_3638.jpeg)
 
 Homeade Switch Wristband Worksheet & Paper Prototype:
 (insert photo)
