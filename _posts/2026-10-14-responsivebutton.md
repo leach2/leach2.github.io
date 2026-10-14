@@ -16,7 +16,7 @@ This assignment tasked me with writing code to control the illumination of LEDs 
 
 
 Tips:
-    - Continue to check code as you go, instead of writing an entire code and then checking it all at once. This makes it easier to identify and solve problems throughout the process and increases efficiency
+- Continue to check code as you go, instead of writing an entire code and then checking it all at once. This makes it easier to identify and solve problems throughout the process and increases efficiency
    
 - Customize the names of "ints" and different variables so that they make sense to YOU. When a lot of variables are in play at once it can get confusing so making sure they are recognizable and you can discern between them is valuable and that's best done making conscious decisions about what they should be named.
 
