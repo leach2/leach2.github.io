@@ -21,5 +21,7 @@ This project is the integration of three previous firefly behaviors into one sin
 - "Blue Ghost" - which keeps an LED illuminated constantly, randomly increasing or decreasing brightness every half of a second.
 
 
+
+
 Tip/Trick for Others:
 My tip for others after doing this project would be to be extremely deliberate in organization. I was constantly making comments on my code and even creating new sketches as I worked to be as organized as possible as I translated and copied code over from the three different sketches into the combined integrated one. This was immensely helpful for me and definitely contributed to not only my work being very organized and efficient but my final submission be so as well. 
