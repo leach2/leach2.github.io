@@ -12,6 +12,7 @@ author: Ryan Leach
 
 
 Photo of Firefly Illumination:
+![GhostDetectorWarningPhoto](https://leach2.github.io/assets/img/IMG_3734.jpeg)
 ![SimultaneousFireflyPhoto](https://leach2.github.io/assets/img/Simultaneous%20Fireflies%20Picture.jpeg)
 
 Project Description:
