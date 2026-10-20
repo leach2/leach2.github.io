@@ -15,6 +15,8 @@ Photo of Firefly Illumination:
 ![GhostDetectorWarningPhoto](https://leach2.github.io/assets/img/IMG_3734.jpeg?raw=true)
 
 ![SimultaneousFireflyPhoto](https://leach2.github.io/assets/img/Simultaneous%20Fireflies%20Picture.jpeg)
+![GhostDetectorPhoto](https://leach2.github.io/assets/img/IMG_3734.jpg?raw=true)
+
 
 Project Description:
 This project focuses on the integration of using both the light and temperature sensors in complement of the Arduino board. The code aims to record the brightness and temperature of its surroundings and turn on two red LEDs when both brightness and temperature drop below a certain threshold. In the context of the assignment, this acts as a warning when the conditions are right for ghosts to be about. 
