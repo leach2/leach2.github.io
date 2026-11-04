@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analog Arrays 
+title: Final Project Proposal 
 subtitle: Due 11/4/2026
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
