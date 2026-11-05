@@ -13,7 +13,6 @@ author: Ryan Leach
 Slideshow Images
 ![SlideOne](https://leach2.github.io/assets/img/Frosty's%20Winter%20Collection%20-%20Mock-Up.jpg)
 ![SlideTwo](https://leach2.github.io/assets/img/Frosty's%20Winter%20Collection%20-%20Mock-Up%20(1).jpg)
-![CodeinAction](https://leach2.github.io/assets/img/IMG_3763.jpeg)
 
 
 Project Pitch: (framework)
