@@ -15,13 +15,15 @@ Slideshow Images
 ![SlideTwo](https://leach2.github.io/assets/img/Frosty's%20Winter%20Collection%20-%20Mock-Up%20(1).jpg)
 
 Winter Eyemask Paper Prototype:
-![Eyemask](https://leach2.github.io/assets/img/Eyemask%20Paper%20Prototype.pdf)
+![Eyemask](https://leach2.github.io/assets/img/Eyemask.jpg)
 Winter Eyemask Project Description:
 
 Frosty-the-Snowman Plushy Paper Prototype:
-![Plushy](https://leach2.github.io/assets/img/Frosty-the-Snowman%20Plushy%20Paper%20Prototype.pdf)
+![PlushyFront](https://leach2.github.io/assets/img/Plushy-front.jpg)
+![PlushyBack](https://leach2.github.io/assets/img/Plushy-back.jpg)
 Frosty-the-Snowman Plushy Project Description:
 
 Frosty-the-Snowman's Blanket Paper Prototype:
-![Blanket](https://leach2.github.io/assets/img/Frosty's%20Blanket%20Paper%20Prototype.pdf)
+![BlanketFront](https://leach2.github.io/assets/img/Blanket-front.jpg)
+![BlanketBack](https://leach2.github.io/assets/img/Blanket-back.jpg)
 Frosty-the-Snowman's Blanket Project Description:
