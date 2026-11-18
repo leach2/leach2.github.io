@@ -20,6 +20,9 @@ The Winter Eyemask is a snowflake-decorated wearable that allows the wearer to f
 The Winter Eyemask Motivation:
 The Winter Eyemask takes its motivation from the "Homeade Switch Wristband", another Electronic Textiles project that had been completed earlier in the semester. This Eyemask showcases similar skills as that project, however it is also more technically sewn and elaborately decorated, and the switch is just the generic Arduino switch. The creative motivation for this mask came from the Frosty-the-Snowman winter theme and constructing a wearable that allowed the wearer feel closer to Frosty and a part of his winter wonderland. 
 
+
+
+
 The Winter Eyemask Materials List: 
 - 2 Pieces of Beige Felt (mask base and overlayed back)
 - 1 Piece of Royal Blue Felt (snowflakes)
@@ -28,16 +31,25 @@ The Winter Eyemask Materials List:
 - White Thread (accent and attachment)
 - Electric Blue Thread (accent and attachment)
 
-The Winter Eyemask Revised Paper Prototype:
 
+
+
+The Winter Eyemask Revised Paper Prototype:
+![Eyemask](https://leach2.github.io/assets/img/Eyemask.jpg)
+![RevisedPaperProto](https://leach2.github.io/assets/img/PaperProto.jpg)
 
 The Winter Eyemask Alligator Prototype:
-
+![AlligatorProto](https://leach2.github.io/assets/img/Alligator.jpeg)
 
 The Winter Eyemask Final Product:
-
+![FinalFront](https://leach2.github.io/assets/img/FinalFront.jpeg)
+![FinalBack](https://leach2.github.io/assets/img/FinalBack.jpeg)
 
 The Winter Eyemask In Action:
+![InAction](https://leach2.github.io/assets/img/InAction.jpeg)
+
+
+
 
 Tips to My Past Self:
 - My first tip would be to be exceptionally careful with materials. In being less deliberate and thoughtful when measuring out pieces I very nearly ran out of the color of felt I needed, and did run out of the white accent thread, forcing me to switch to electric blue.
