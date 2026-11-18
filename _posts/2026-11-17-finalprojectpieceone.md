@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Project Piece #1 
+title: Final Project Piece One 
 subtitle: Due 11/18/2026
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
