@@ -35,7 +35,6 @@ The Winter Eyemask Materials List:
 
 
 The Winter Eyemask Revised Paper Prototype:
-![Eyemask](https://leach2.github.io/assets/img/Eyemask.jpg)
 ![RevisedPaperProto](https://leach2.github.io/assets/img/PaperProto.jpg)
 
 The Winter Eyemask Alligator Prototype:
